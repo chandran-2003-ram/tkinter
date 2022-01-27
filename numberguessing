@@ -1,0 +1,17 @@
+import random
+x = int(input("Enter the min number:"))
+y = int(input("Enter the max number:"))
+ran = random.randint(x,y)
+win = False
+turn = 0
+while win == False:
+    num = int(input("Enter your guessed number:"))
+    turn +=1
+    if ran == num:
+        print("Your guess is correct!!!")
+        print("number of turns used:",turn)
+        break
+    elif ran > num:
+        print("The number is greater than your guess")
+    else:
+        print("The number is lesser than your guess")
