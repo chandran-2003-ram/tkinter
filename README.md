@@ -9,7 +9,7 @@
 * squareroot
 * 1 divided by x
 
-Yet to do more by adding many features and to makesure a better calculating app with a good GUI.
+  Yet to do more by adding many features and to makesure a better calculating app with a good GUI.
 
 ### 2. A random number generating app with GUI 
 * Achieved yet : command line interface 
