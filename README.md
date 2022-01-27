@@ -1,6 +1,6 @@
 # tkinter
 ##### This repo is for developing my tkinter knowledge in basic applications and uploading it into github for future use and side by learning how to use github.<br />
-### Still now developed a basic calculator app with operations like :
+### 1.basic calculator app :
 * addition 
 * subtraction
 * multiplication
@@ -11,5 +11,6 @@
 
 Yet to do more by adding many features and to makesure a better calculating app with a good GUI.
 
-## Goal : A random number generating app with GUI 
-## Achieved yet : command line interface 
+### 2. A random number generating app with GUI 
+* Achieved yet : command line interface 
+* Goal : Graphical user interface app with selecting range by the user itself
