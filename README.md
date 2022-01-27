@@ -1,6 +1,7 @@
 # tkinter
 ##### This repo is for developing my tkinter knowledge in basic applications and uploading it into github for future use and side by learning how to use github.<br />
 ### 1. basic calculator app :
+ Still now completed with operations like:
 * addition 
 * subtraction
 * multiplication
