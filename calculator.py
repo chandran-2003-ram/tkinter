@@ -1,7 +1,8 @@
 from tkinter import *
 
+__version__ = "v1.0.0"
 root = Tk()
-root.title("Calculator")
+root.title(f"Calculator({__version__})")
 root.configure(bg="grey")
 
 e = Entry(root, width = 50,borderwidth= 5,fg= "white",bg = "#5b5b5b")
